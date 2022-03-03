@@ -1,1 +1,1 @@
-Fazendo REQUEST para uma API que mostra cotações do dólar, euro e bitcoin.
+Fazendo REQUEST para uma API aberta que mostra cotações do dólar, euro e bitcoin.
